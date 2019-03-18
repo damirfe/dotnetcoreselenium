@@ -7,29 +7,16 @@ namespace coretest.pageobjects
     {
         private static IWebDriver driver = WebDriver.Instance;
 
-        private IWebElement SearchBar
-        {
-            get
-            {
-                return driver.FindElement(By.CssSelector(".gLFyf.gsfi"));
-            }
-        }
+        private IWebElement SearchBar =>
+            driver.FindElement(By.CssSelector(".gLFyf.gsfi"));
 
-        private IWebElement ImageBox
-        {
-            get
-            {
-                return driver.FindElement(By.Id("imagebox_bigimages"));
-            }
-        }
+        private IWebElement ImageBox =>
+            driver.FindElement(By.Id("imagebox_bigimages"));
 
-        private IWebElement GoogleSearch
-        {
-            get
-            {
-                return driver.FindElement(By.CssSelector(@".FPdoLc.VlcLAe input"));
-            }
-        }
+
+        private IWebElement GoogleSearch =>
+            driver.FindElement(By.CssSelector(@".FPdoLc.VlcLAe input"));
+
 
         public void NavigateToLandingPage()
         {

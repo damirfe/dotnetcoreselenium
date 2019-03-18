@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\damir.ivanic\\Desktop\\Code\\dotnetcoreselenium\\coretest.csproj": {}
+    "C:\\Users\\damir.ivanic\\Desktop\\Code\\dotnetcoreselenium\\coretest.csproj": {}
   },
   "projects": {
-    "c:\\Users\\damir.ivanic\\Desktop\\Code\\dotnetcoreselenium\\coretest.csproj": {
+    "C:\\Users\\damir.ivanic\\Desktop\\Code\\dotnetcoreselenium\\coretest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\damir.ivanic\\Desktop\\Code\\dotnetcoreselenium\\coretest.csproj",
+        "projectUniqueName": "C:\\Users\\damir.ivanic\\Desktop\\Code\\dotnetcoreselenium\\coretest.csproj",
         "projectName": "coretest",
-        "projectPath": "c:\\Users\\damir.ivanic\\Desktop\\Code\\dotnetcoreselenium\\coretest.csproj",
+        "projectPath": "C:\\Users\\damir.ivanic\\Desktop\\Code\\dotnetcoreselenium\\coretest.csproj",
         "packagesPath": "C:\\Users\\damir.ivanic\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\damir.ivanic\\Desktop\\Code\\dotnetcoreselenium\\obj\\",
+        "outputPath": "C:\\Users\\damir.ivanic\\Desktop\\Code\\dotnetcoreselenium\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
