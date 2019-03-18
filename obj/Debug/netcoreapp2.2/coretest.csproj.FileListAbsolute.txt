@@ -1,0 +1,14 @@
+c:\Users\damir\Desktop\coretest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+c:\Users\damir\Desktop\coretest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+c:\Users\damir\Desktop\coretest\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+c:\Users\damir\Desktop\coretest\bin\Debug\netcoreapp2.2\coretest.deps.json
+c:\Users\damir\Desktop\coretest\bin\Debug\netcoreapp2.2\coretest.runtimeconfig.json
+c:\Users\damir\Desktop\coretest\bin\Debug\netcoreapp2.2\coretest.runtimeconfig.dev.json
+c:\Users\damir\Desktop\coretest\bin\Debug\netcoreapp2.2\coretest.dll
+c:\Users\damir\Desktop\coretest\bin\Debug\netcoreapp2.2\coretest.pdb
+c:\Users\damir\Desktop\coretest\obj\Debug\netcoreapp2.2\coretest.csprojAssemblyReference.cache
+c:\Users\damir\Desktop\coretest\obj\Debug\netcoreapp2.2\coretest.csproj.CoreCompileInputs.cache
+c:\Users\damir\Desktop\coretest\obj\Debug\netcoreapp2.2\coretest.AssemblyInfoInputs.cache
+c:\Users\damir\Desktop\coretest\obj\Debug\netcoreapp2.2\coretest.AssemblyInfo.cs
+c:\Users\damir\Desktop\coretest\obj\Debug\netcoreapp2.2\coretest.dll
+c:\Users\damir\Desktop\coretest\obj\Debug\netcoreapp2.2\coretest.pdb
