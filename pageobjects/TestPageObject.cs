@@ -1,20 +1,17 @@
+using dotnetcoreselenium.driver;
 using OpenQA.Selenium;
 
 namespace coretest.pageobjects
 {
     public class TestPageObject
     {
-        private readonly IWebDriver driver;
+        private static IWebDriver driver = WebDriver.Instance;
 
-        public TestPageObject(IWebDriver driver)
-        {
-            this.driver = driver;
-        }
         private IWebElement SearchBar
         {
             get
             {
-                return this.driver.FindElement(By.CssSelector(".gLFyf.gsfi"));
+                return driver.FindElement(By.CssSelector(".gLFyf.gsfi"));
             }
         }
 
@@ -22,7 +19,7 @@ namespace coretest.pageobjects
         {
             get
             {
-                return this.driver.FindElement(By.Id("imagebox_bigimages"));
+                return driver.FindElement(By.Id("imagebox_bigimages"));
             }
         }
 
@@ -30,8 +27,13 @@ namespace coretest.pageobjects
         {
             get
             {
-                return this.driver.FindElement(By.CssSelector(@".FPdoLc.VlcLAe input[value=""Google Search""]"));
+                return driver.FindElement(By.CssSelector(@".FPdoLc.VlcLAe input"));
             }
+        }
+
+        public void NavigateToLandingPage()
+        {
+            driver.Navigate().GoToUrl("https://www.google.com/");
         }
 
         public void PopulateSearchBar(string text)

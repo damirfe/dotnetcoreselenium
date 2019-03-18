@@ -12,3 +12,17 @@ c:\Users\damir\Desktop\coretest\obj\Debug\netcoreapp2.2\coretest.AssemblyInfoInp
 c:\Users\damir\Desktop\coretest\obj\Debug\netcoreapp2.2\coretest.AssemblyInfo.cs
 c:\Users\damir\Desktop\coretest\obj\Debug\netcoreapp2.2\coretest.dll
 c:\Users\damir\Desktop\coretest\obj\Debug\netcoreapp2.2\coretest.pdb
+C:\Users\damir.ivanic\Desktop\Code\dotnetcoreselenium\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\damir.ivanic\Desktop\Code\dotnetcoreselenium\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\damir.ivanic\Desktop\Code\dotnetcoreselenium\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\damir.ivanic\Desktop\Code\dotnetcoreselenium\bin\Debug\netcoreapp2.2\coretest.deps.json
+C:\Users\damir.ivanic\Desktop\Code\dotnetcoreselenium\bin\Debug\netcoreapp2.2\coretest.runtimeconfig.json
+C:\Users\damir.ivanic\Desktop\Code\dotnetcoreselenium\bin\Debug\netcoreapp2.2\coretest.runtimeconfig.dev.json
+C:\Users\damir.ivanic\Desktop\Code\dotnetcoreselenium\bin\Debug\netcoreapp2.2\coretest.dll
+C:\Users\damir.ivanic\Desktop\Code\dotnetcoreselenium\bin\Debug\netcoreapp2.2\coretest.pdb
+C:\Users\damir.ivanic\Desktop\Code\dotnetcoreselenium\obj\Debug\netcoreapp2.2\coretest.csproj.CoreCompileInputs.cache
+C:\Users\damir.ivanic\Desktop\Code\dotnetcoreselenium\obj\Debug\netcoreapp2.2\coretest.AssemblyInfoInputs.cache
+C:\Users\damir.ivanic\Desktop\Code\dotnetcoreselenium\obj\Debug\netcoreapp2.2\coretest.AssemblyInfo.cs
+C:\Users\damir.ivanic\Desktop\Code\dotnetcoreselenium\obj\Debug\netcoreapp2.2\coretest.dll
+C:\Users\damir.ivanic\Desktop\Code\dotnetcoreselenium\obj\Debug\netcoreapp2.2\coretest.pdb
+c:\Users\damir.ivanic\Desktop\Code\dotnetcoreselenium\obj\Debug\netcoreapp2.2\coretest.csprojAssemblyReference.cache
