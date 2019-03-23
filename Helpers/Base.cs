@@ -3,7 +3,7 @@ using NUnit.Framework;
 using NUnit.Framework.Interfaces;
 using TechTalk.SpecFlow;
 
-namespace SimphonyChallenge.Helpers
+namespace dotnetcoreselenium.Helpers
 {
     [Binding]
     public class Base

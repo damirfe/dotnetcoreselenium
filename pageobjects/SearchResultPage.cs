@@ -1,12 +1,12 @@
-﻿using OpenQA.Selenium;
-using SimphonyChallenge.Driver;
+﻿using dotnetcoreselenium.driver;
+using OpenQA.Selenium;
 using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Reflection;
 
-namespace SimphonyChallenge.Pages
+namespace dotnetcoreselenium.pageobjects
 {
     public class SearchResultPage
     {

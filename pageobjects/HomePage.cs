@@ -1,9 +1,9 @@
-﻿using OpenQA.Selenium;
-using SimphonyChallenge.Driver;
+﻿using dotnetcoreselenium.driver;
+using OpenQA.Selenium;
 using System.Collections;
 using System.Collections.Generic;
 
-namespace SimphonyChallenge.Pages
+namespace dotnetcoreselenium.pageobjects
 {
     public class HomePage
     {

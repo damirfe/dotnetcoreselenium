@@ -1,9 +1,9 @@
-﻿using NUnit.Framework;
-using SimphonyChallenge.Helpers;
-using SimphonyChallenge.Pages;
+﻿using dotnetcoreselenium.Helpers;
+using dotnetcoreselenium.pageobjects;
+using NUnit.Framework;
 using TechTalk.SpecFlow;
 
-namespace SimphonyChallenge.Steps
+namespace dotnetcoreselenium.steps
 {
     [Binding]
     public class HomePageSteps : Base
