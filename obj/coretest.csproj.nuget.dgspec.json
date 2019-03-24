@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\damir.ivanic\\Desktop\\Code\\dotnetcoreselenium\\coretest.csproj": {}
+    "C:\\Users\\damir\\Desktop\\coretest\\coretest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\damir.ivanic\\Desktop\\Code\\dotnetcoreselenium\\coretest.csproj": {
+    "C:\\Users\\damir\\Desktop\\coretest\\coretest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\damir.ivanic\\Desktop\\Code\\dotnetcoreselenium\\coretest.csproj",
+        "projectUniqueName": "C:\\Users\\damir\\Desktop\\coretest\\coretest.csproj",
         "projectName": "coretest",
-        "projectPath": "C:\\Users\\damir.ivanic\\Desktop\\Code\\dotnetcoreselenium\\coretest.csproj",
-        "packagesPath": "C:\\Users\\damir.ivanic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\damir.ivanic\\Desktop\\Code\\dotnetcoreselenium\\obj\\",
+        "projectPath": "C:\\Users\\damir\\Desktop\\coretest\\coretest.csproj",
+        "packagesPath": "C:\\Users\\damir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\damir\\Desktop\\coretest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\damir.ivanic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\damir\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,8 +25,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://eurocom-group.pkgs.visualstudio.com/_packaging/EurocomFeed/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.2": {
@@ -52,7 +51,7 @@
             },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[15.9.0, )"
+              "version": "[16.0.1, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
@@ -62,15 +61,7 @@
             },
             "NUnit3TestAdapter": {
               "target": "Package",
-              "version": "[3.11.0, )"
-            },
-            "Selenium.Chrome.WebDriver": {
-              "target": "Package",
-              "version": "[2.45.0, )"
-            },
-            "Selenium.Firefox.WebDriver": {
-              "target": "Package",
-              "version": "[0.23.0, )"
+              "version": "[3.13.0, )"
             },
             "Selenium.Support": {
               "target": "Package",
@@ -79,6 +70,10 @@
             "Selenium.WebDriver": {
               "target": "Package",
               "version": "[3.141.0, )"
+            },
+            "SpecFlow": {
+              "target": "Package",
+              "version": "[3.0.181-beta, )"
             },
             "nunit": {
               "target": "Package",
