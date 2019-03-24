@@ -7,7 +7,7 @@ namespace dotnetcoreselenium.pageobjects
 {
     public class HomePage
     {
-        private static IWebDriver driver = WebDriver.Instance;
+        private IWebDriver driver = WebDriver.Instance;
 
         private IWebElement SignInButton =>
             driver.FindElement(By.CssSelector(".header_user_info .login"));

@@ -10,7 +10,7 @@ namespace dotnetcoreselenium.pageobjects
 {
     public class SearchResultPage
     {
-        private static IWebDriver driver = WebDriver.Instance;
+        private IWebDriver driver = WebDriver.Instance;
 
         private IList<IWebElement> ProductNames =>
             driver.FindElements(By.CssSelector(".right-block .product-name"));
