@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\damir\\Desktop\\coretest\\coretest.csproj": {}
+    "C:\\Users\\damir\\Desktop\\Projects\\dotnetcoreselenium\\coretest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\damir\\Desktop\\coretest\\coretest.csproj": {
+    "C:\\Users\\damir\\Desktop\\Projects\\dotnetcoreselenium\\coretest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\damir\\Desktop\\coretest\\coretest.csproj",
+        "projectUniqueName": "C:\\Users\\damir\\Desktop\\Projects\\dotnetcoreselenium\\coretest.csproj",
         "projectName": "coretest",
-        "projectPath": "C:\\Users\\damir\\Desktop\\coretest\\coretest.csproj",
+        "projectPath": "C:\\Users\\damir\\Desktop\\Projects\\dotnetcoreselenium\\coretest.csproj",
         "packagesPath": "C:\\Users\\damir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\damir\\Desktop\\coretest\\obj\\",
+        "outputPath": "C:\\Users\\damir\\Desktop\\Projects\\dotnetcoreselenium\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -43,15 +43,15 @@
           "dependencies": {
             "FluentAssertions": {
               "target": "Package",
-              "version": "[5.6.0, )"
+              "version": "[5.9.0, )"
             },
             "Microsoft.ApplicationInsights": {
               "target": "Package",
-              "version": "[2.9.1, )"
+              "version": "[2.11.0, )"
             },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[16.0.1, )"
+              "version": "[16.3.0, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
@@ -61,7 +61,7 @@
             },
             "NUnit3TestAdapter": {
               "target": "Package",
-              "version": "[3.13.0, )"
+              "version": "[3.15.1, )"
             },
             "Selenium.Support": {
               "target": "Package",
@@ -71,13 +71,17 @@
               "target": "Package",
               "version": "[3.141.0, )"
             },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[78.0.3904.7000, )"
+            },
             "SpecFlow": {
               "target": "Package",
-              "version": "[3.0.181-beta, )"
+              "version": "[3.0.225, )"
             },
             "nunit": {
               "target": "Package",
-              "version": "[3.11.0, )"
+              "version": "[3.12.0, )"
             }
           },
           "imports": [
